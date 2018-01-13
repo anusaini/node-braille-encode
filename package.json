@@ -1,0 +1,19 @@
+{
+  "name": "node-braille-encode",
+  "version": "1.0.0",
+  "description": "Encodes string to braille - node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anusaini/node-braille-encode.git"
+  },
+  "keywords": ["braille", "encode"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anusaini/node-braille-encode/issues"
+  },
+  "homepage": "https://github.com/anusaini/node-braille-encode#readme"
+}
